@@ -1,0 +1,16 @@
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.exe
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.deps.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.runtimeconfig.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.runtimeconfig.dev.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\ref\Cálculo de gastos com cigarro.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\bin\Debug\net5.0\Cálculo de gastos com cigarro.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.csproj.AssemblyReference.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.AssemblyInfoInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.AssemblyInfo.cs
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.csproj.CoreCompileInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\ref\Cálculo de gastos com cigarro.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Material Extracurso\Cálculo de gastos com cigarro\obj\Debug\net5.0\Cálculo de gastos com cigarro.genruntimeconfig.cache

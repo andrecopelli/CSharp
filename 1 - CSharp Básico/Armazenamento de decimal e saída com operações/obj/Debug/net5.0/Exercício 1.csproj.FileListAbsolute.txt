@@ -1,0 +1,32 @@
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.exe
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.deps.json
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.runtimeconfig.json
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.runtimeconfig.dev.json
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.dll
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\bin\Debug\net5.0\Exercício 1.pdb
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.dll
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\refint\Exercício 1.dll
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.pdb
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\Exercício 1.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\Desenvolvimento\C#\Exercício 1\obj\Debug\net5.0\ref\Exercício 1.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.exe
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.deps.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.runtimeconfig.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.runtimeconfig.dev.json
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\ref\Exercício 1.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\bin\Debug\net5.0\Exercício 1.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.AssemblyInfo.cs
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\ref\Exercício 1.dll
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.pdb
+C:\Users\André Copelli\OneDrive\TropTech Full Stack\Módulo1\Aula 11\Armazenamento de decimal e saída com operações\obj\Debug\net5.0\Exercício 1.genruntimeconfig.cache

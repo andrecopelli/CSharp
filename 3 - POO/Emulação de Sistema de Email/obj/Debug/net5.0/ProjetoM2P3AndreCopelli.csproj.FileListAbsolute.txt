@@ -1,0 +1,16 @@
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.exe
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.deps.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.runtimeconfig.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.runtimeconfig.dev.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\bin\Debug\net5.0\ProjetoM2P3AndreCopelli.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\refint\ProjetoM2P3AndreCopelli.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ProjetoM2P3AndreCopelli.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P3AndreCopelli\obj\Debug\net5.0\ref\ProjetoM2P3AndreCopelli.dll

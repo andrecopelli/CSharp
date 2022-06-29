@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cálculo de gastos com cigarro/1.0.0": {
+        "runtime": {
+          "Cálculo de gastos com cigarro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo de gastos com cigarro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.exe
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.deps.json
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.runtimeconfig.json
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.runtimeconfig.dev.json
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.dll
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\bin\Debug\net5.0\Exercício 3.pdb
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.csproj.AssemblyReference.cache
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.AssemblyInfo.cs
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.dll
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\refint\Exercício 3.dll
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.pdb
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\Exercício 3.genruntimeconfig.cache
+C:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo1\Aula 12\Exercício 3\obj\Debug\net5.0\ref\Exercício 3.dll

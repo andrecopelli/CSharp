@@ -1,0 +1,36 @@
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\refint\ControleEstoque.dll
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb
+C:\Users\anna.laura\source\repos\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\refint\ControleEstoque.dll
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb
+c:\Users\SERVER\OneDrive\TropTech Full Stack\Módulo2\ProjetoM2P4\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.deps.json
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.dll
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\bin\Debug\net5.0\ControleEstoque.pdb
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.AssemblyReference.cache
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfoInputs.cache
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.AssemblyInfo.cs
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.csproj.CoreCompileInputs.cache
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.dll
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\refint\ControleEstoque.dll
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ControleEstoque.pdb
+c:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\ProjetoM2P4AndreCopelli\ControleEstoqueSolution\ControleEstoque\obj\Debug\net5.0\ref\ControleEstoque.dll

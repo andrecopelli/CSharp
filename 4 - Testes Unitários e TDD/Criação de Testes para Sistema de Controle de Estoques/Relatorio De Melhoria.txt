@@ -1,0 +1,18 @@
+1- O Método Object.Equals foi substituído, sem substituir o método Object.GetHashCode,
+nesse caso ele deve ser implementado, pois o Equals compara os objetos pela referência
+de memória e não pelo valor do objeto. Evitando assim que dois dados diferentes gere o 
+mesmo resultado.
+
+public override int GetHashCode()
+{
+    return _id;
+}
+
+public override int GetHashCode()
+{
+      return produto.nome.GetHashCode();
+}
+
+2 - Deveria ser criada uma propriedade publica para a descrição.
+
+3 - O Id de produto deveria inicializar em 1 ao invés de 0;

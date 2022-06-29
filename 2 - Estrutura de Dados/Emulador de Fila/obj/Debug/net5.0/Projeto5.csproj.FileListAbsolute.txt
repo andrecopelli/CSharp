@@ -1,0 +1,16 @@
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.exe
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.deps.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.runtimeconfig.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.runtimeconfig.dev.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\bin\Debug\net5.0\Projeto5.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\refint\Projeto5.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\Projeto5.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Projetos Avaliados\Projeto5\obj\Debug\net5.0\ref\Projeto5.dll

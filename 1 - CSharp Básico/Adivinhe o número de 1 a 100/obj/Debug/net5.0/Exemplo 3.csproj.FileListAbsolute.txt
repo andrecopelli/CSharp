@@ -1,0 +1,16 @@
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.exe
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.deps.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.runtimeconfig.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.runtimeconfig.dev.json
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\bin\Debug\net5.0\Exemplo 3.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\refint\Exemplo 3.dll
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.pdb
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\Exemplo 3.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\Projetos TropTech\Exercícios Diversos\Exemplo 3\obj\Debug\net5.0\ref\Exemplo 3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjetoM2P3AndreCopelli/1.0.0": {
+        "runtime": {
+          "ProjetoM2P3AndreCopelli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoM2P3AndreCopelli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
