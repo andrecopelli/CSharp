@@ -1,8 +1,12 @@
 # CSharp
 <h1 align="center"> Reposotório de Projetos e Exercícios em C# </h1>
 <p align="center">
+<img src="https://www.fapesc.sc.gov.br/wp-content/uploads/2022/01/troptech-1024x1024.png"/>
+</p>
+<p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
 
 Esse repositório foi criado para armazenar e compartilhar os exercícios e projetos desenvolvidos no curso de formação de desenvolvedor Full Stack da TropTech.
 
